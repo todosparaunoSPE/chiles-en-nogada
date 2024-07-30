@@ -30,6 +30,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Añadir un botón de contacto o formulario (opcional)
+st.write("")
 st.write("Para realizar tu pedido, puedes contactarme al número [246 159 3018].")
 
 # Botón para compartir en redes sociales (opcional, solo texto por ahora)
