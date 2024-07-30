@@ -45,3 +45,10 @@ st.markdown("""
     }
     </style>
 """, unsafe_allow_html=True)
+
+
+st.sidebar.write("© 2024 Todos los derechos reservados")
+st.sidebar.write("Para realizar tu pedido, puedes contactarme al número 246 159 3018."")
+
+
+
